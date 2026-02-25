@@ -19,5 +19,8 @@ public class Collections {
 		java.util.Collections.sort(li);
 		
 		System.out.println(li);
+		
+		ArrayList al = new ArrayList();
+		
 	}
 }
