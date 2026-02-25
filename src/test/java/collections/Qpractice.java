@@ -8,7 +8,7 @@ public class Qpractice {
 
 	public static void main(String[] args) {
 		
-		PriorityQueue<Integer> pq=new PriorityQueue(Comparator.reverseOrder());
+		PriorityQueue<Integer> pq=new PriorityQueue();
 		
 		//The default capicity of the priority Que is 11
 		

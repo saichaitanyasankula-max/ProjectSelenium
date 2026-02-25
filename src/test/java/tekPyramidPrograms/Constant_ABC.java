@@ -12,7 +12,7 @@ public class Constant_ABC {
 
       char ch[]=variablePart.toCharArray();
       
-        List<String> combinations = new ArrayList<>();
+        List<String> combinations = new ArrayList();
         
         System.out.println(variablePart.length());
         
